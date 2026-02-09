@@ -5,15 +5,22 @@ A modern, neon-styled shopping cart application built using React. This project 
 
 📸 Screenshots
 🏠 Home Page
-<<<<<<< HEAD
+
+
 ![alt text](<mini-project/src/assets/Screenshot 2026-02-09 134039.png>)
+
+
+
+
+
+
 🛒 Cart Page
+
+
+
 ![alt text](<mini-project/src/assets/Screenshot 2026-02-09 134025.png>)
 =======
-![alt text](<src/assets/Screenshot 2026-02-09 134039.png>)
-🛒 Cart Page
-![alt text](<src/assets/Screenshot 2026-02-09 134025.png>)
->>>>>>> 19821d813a1294ba5a82dad6bd4001968dd4498e
+
 
 
 🚀 Features
